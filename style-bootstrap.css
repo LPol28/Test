@@ -1,0 +1,20 @@
+.col-md-4
+{
+    background-color: pink;
+    border: solid black;
+}
+
+.col-md-6
+{
+    background-color: red;
+}
+
+.col-md-2-1
+{
+    background-color: green;
+}
+
+.col-md-3
+{
+background-color: yellow;
+}
